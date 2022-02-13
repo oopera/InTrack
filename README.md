@@ -8,5 +8,6 @@ Ziel der Applikation ist es eine einfach gestaltete Informationsquelle der aktue
 
 Erstellt durch:
 
-Milewski, Nils [10010480]   
-Lichner, Lucas [10013552]
+Lichner, Lucas 
+Milewski, Nils @nimile
+
