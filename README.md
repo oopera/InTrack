@@ -9,5 +9,6 @@ Ziel der Applikation ist es eine einfach gestaltete Informationsquelle der aktue
 Erstellt durch:
 
 Lichner, Lucas 
+
 Milewski, Nils @nimile
 
