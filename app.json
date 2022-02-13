@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "CoronaApp",
+    "slug": "CoronaApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Diese App benutzt den Ortungsdienst um covid19 Zahlen für dein aktuellen Standort herauszufinden.",
+        "NSLocationAlwaysUsageDescription": "Diese App benutzt den Ortungsdienst um covid19 Zahlen für dein aktuellen Standort herauszufinden.",
+        "NSLocationWhenInUseUsageDescription": "Diese App benutzt den Ortungsdienst um covid19 Zahlen für dein aktuellen Standort herauszufinden."
+      },
+      "bundleIdentifier": "de.hrw.CoronaApp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "de.hrw.app.CoronaApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
